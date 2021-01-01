@@ -1,2 +1,2 @@
 # Prdocut-Recommendation
-in this recommendation which is built in cosine similiarity.
+this recommendation built in cosine similiarity.
